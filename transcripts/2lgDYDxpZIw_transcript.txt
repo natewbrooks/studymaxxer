@@ -1,0 +1,743 @@
+this is a radical transparency we're
+going to be the the the first Honest
+Game Dev and I'm going to pull in is
+though right about now if you don't know
+uh we worked on a game over the past
+year it still has many great videos on
+his Channel about it and it recently
+released 16 days ago called get to work
+and has done pretty well we're doing
+good about it but today the plan is to
+show you exactly how well and what went
+wrong and what went right and uh go into
+the real details of making and launching
+a game how would you sum up our year
+working on this game I think it's really
+important to understand how much context
+goes behind the numbers so a lot of it
+is like experience changes these numbers
+a ton right we built the game in a year
+if it was me 10 years ago that's when I
+started building games no chance in hell
+I could have done this in in a year this
+is crazy like this is like a three-year
+project for most beginners if not longer
+so I thought it'd be kind of fun just to
+peel the curtain back a little bit and
+show you a little bit of our pitch deck
+from like before we even started this
+project so my initial pitch was
+initially about streamers now streamers
+are really driving how games are
+discovered and a lot of this was already
+talked about by atrio so I kind of took
+this a little bit but I added the Game
+Dev context there really is a lot of
+split on different projects so AAA games
+are hard to make cuz they cost you know
+looking at you Concord $50 million yeah
+RP um there's tons of weekend projects
+can we say now officially we'll get into
+the details but we can officially say
+that our game has significantly
+outperformed Concord oh for sure which
+is actually when you think about it
+crazy
+they sp1 million they had fully staffed
+teams of Game Dev they had Sony's
+experience that's crazy in one year and
+it's scary like growing a big company
+has a lot of benefits but a lot of
+downfalls as we've seen a lot of people
+don't see how many games come out on
+Steam because steam has this filter that
+basically if you don't have a lot of
+reviews or people aren't playing your
+game they just like filter through and
+you never see it but the number of games
+that come out on Steam is actually like
+incredibly High something crazy like a
+thousand games a week and so we are kind
+of stuck in this Indie little bubble
+this Little Indie Square here yeah where
+you know it's hard to stand out so you
+have to be proactive about standing out
+and part of that is marketing marketing
+is one of the big pieces that pushes you
+Above the Rest that gets people to pay
+attention to your game that being said
+there's a huge caveat you have to have a
+good game and a good game is very
+nebulous it the easy part under you can
+just make a good game like that doesn't
+anyone can just do that you just you
+just need a good ideas guy and then
+you're done now I thought it'd be kind
+of fun this is this is the first pitch
+deck that we put together we like to
+move fast and that's really important
+cuz it costs less money like you don't
+want to spend all the time to like build
+a proper character you're just trying to
+get the idea out there yeah but we had
+this as our like poster for like
+probably 7 months which is hilarious
+unlike everyone else you are not a sheep
+9 to-5 desk job for Chumps you're about
+passive income you're about working
+harder not smarter you're here to climb
+the corporate ladder fast fast mhm that
+was the initial pitch deck and of course
+we had roller man fast and dirty baby
+when I put put together this pitch deck
+I didn't know how to build 3D games at
+all and a big part of why we did those
+videos together was it was an excuse for
+me to learn 3D and that was great cuz I
+needed to do that and then I got a video
+out of it that did well and then we
+built this Association that atrio at
+least is willing to learn cuz a lot of
+people just aren't willing to try that
+was the whole point I mean for my POV
+this whole thing was supposed to be I
+wanted to see what making a game was
+like from start to finish I'll just
+openly say it I did not expect to make
+any money back on this I we'll go into
+the numbers later there's a million
+games release a day the chance of anyone
+making money are zero it doesn't like
+even if we make a great game no one will
+see it who knows you know we'll try our
+best but that was the idea and so I
+wanted to learn from you who had
+launched atrio like how what do you what
+is the pro what what what is every step
+of the way I mean you really handheld me
+through like opening unity and getting
+sorcery and getting on the right branch
+and how to like open up and like you
+wouldn't let me you know I had to truly
+learn how to at least like make a level
+and test it which I thought was really
+cool and felt satisfying even if my
+output was not able to be used in any
+way cuz I was totally trash it was cool
+I think the the wrong attitude is like
+we're going to go in and make a million
+dollars uh cuz a lot of people do that
+and then they get you know a swift
+kicked in the ass realizing how hard it
+is right cuz it's insanely hard uh
+because everyone wants to do it cuz it's
+so fun dude one thing we did I think is
+worth mentioning just for this for this
+video is really early on is though I I
+think you learned this from your Mentor
+Graham it was like we need to make sure
+that we have the exact same vision for
+what this game is so we did like blind
+surveys of the same question and then we
+got in a call yeah the whole team not
+not just us two but like the other
+programmers and we tried to make sure we
+like we had the exact same vision
+because you know famously a game like
+Anthem had hundreds of millions of
+dollars on all these people but if you
+asked anybody on that team on the art
+team or on the I don't know the
+microtransactions team or whatever they
+all had different visions of what the
+game was supposed to be what they all
+had slightly different visions and so it
+was it wasn't coming together Anthem
+maybe not slightly massively different
+whatever but like that was the idea that
+was the way you pitch it to me I thought
+that was very fascinating and I think it
+helped a lot cuz we hashed out a few
+things that we were like oh I saw it
+this way or whatever and then then from
+then on moving forward was like we were
+all lock step on the same page for what
+the game should look like and what it
+should be and for the outside people who
+have who haven't coded before it's like
+really really easy to spend 4 months
+working on a single feature and if
+everybody is working on different things
+and thinks the game's different that's
+how get development hell that's how
+probably and I don't know anything about
+silk song but like maybe we take it back
+we're not saying the bad about team
+Cherry here in our we we got one
+gamewinner our B we came start insulting
+team Cherry bro we're not going to be
+Indie Darlings if we take on team Cherry
+bro it's going they're going to crucify
+us what I'm saying is even the goats it
+happens to everybody yeah we had the
+idea of starting your parents basement
+pretty early on yeah and and this is so
+sloppy I mean this is literally like 3
+minutes of work but it just gets the
+idea across of like you going up ramps
+cuz like a little sketch is not enough
+and like doing a full level was is too
+much so I think we found a nice balance
+here of like okay I kind of get the
+vision here imagine if this was the game
+that was
+released and imagine if it sold just as
+well it didn't matter like XC actually
+loved it he played it longer I also
+pitched the idea as like a stretch goal
+to add a story similar to The Stanley
+Parable yeah now there's been we were a
+little leery to use the Stanley Parable
+cuz you know we don't really want people
+you know saying that in our store
+description but as soon as we wrote the
+story it was like the first thing that
+came out of everybody's mouth they were
+like Stanley Parable yeah like I think
+that was more because Connor's voice is
+so British true regardless of how we
+used it the second they heard the verse
+line they're like stanle Parable but I
+do agree that like that was our yeah the
+inspiration so there was definitely a
+chance where we were like there's no
+other rage game that has a story there's
+no other rage game that has like a a ton
+of narration so like there's a good
+chance could succeed the favellas and
+the parents beating of only up the AI
+voice rambling about the favellas is one
+of the great stories of our time part of
+it was like audio events of some some
+sort we thought that like with the way
+the economy was going and this was
+largely inspired by your your like
+marketing Mondays where you're talking
+about Drop Shipping and like all these
+goofy kids on Tik Tok combined with the
+fact that like real genuine people are
+trying to find jobs and so there's this
+little disconnect between trying to make
+a million dollars and actually getting a
+job and being genuine dude what's so
+funny is the amount of people I see who
+don't know anything about you me even
+squeaks or people near like they they're
+they're just playing this game and their
+chat is spamming like aware and like
+depressed on yeah which is like I you
+know I think the goal is to be more
+humorous on it but I saw it so regular
+people being like Oh too real too real
+it's funny that people really connected
+with even as over the top and goofy as
+it as it was and I think as things kind
+of get worse people want to express
+their frustration in some way that is
+more positive and I feel like hearing
+the grind set about some goofballs
+trying to sell you Niko shade Vapes is a
+little more palatable than just like
+going on Tik Tok and seeing someone
+actually like pretend to make a million
+dollars and taking photos in like a
+private jet I think there is some
+positivity coming from it but obviously
+it helps Us sell games because it's very
+relatable so there's there's two sides
+of the coin so we were originally
+thinking like no concrete story but just
+like rough commentary we changed that
+obviously there's like a very clear
+story where you like progress up to CEO
+so that changed but the idea of
+subverting expectations with the offer
+letter and stuff like that we definitely
+kept in we didn't know what we were
+going to do but we thought it'd be kind
+of funny and then we also evaluated the
+risks I was sort of expecting a lot more
+rage games to come out this year
+honestly if you think about the time it
+takes to build them it's definitely a
+lot less than like a multiplayer game or
+like World of Warcraft but the big games
+that came out was chained together and a
+difficult game about climbing and that
+was pretty much it that really hit this
+was the biggest amount of work that we
+as a Dev team would have to work on a
+lot of the advantage of working with a
+more experienced team is we have code
+that we carry over the list you're
+seeing here is the stuff that we had to
+learn for the first time you know
+building this character controller level
+design which we've never done 3D level
+for and then having like an audio system
+that plays like subtitles and works with
+eight different languages and then you
+know we have to figure out I've never
+recorded audio with a professional
+narrator before like how does that work
+I had to figure out how to write lines
+and like work with you learn so much
+stuff on the Fly for this game which is
+pretty incredible Chad I got a question
+for you so this is the box art for the
+game it is beautiful do you think it
+would be better or worse if it showed
+the bald character's face we had some
+debate over this I was actually going to
+change it but I ran out of time I was so
+swamped those last two weeks that I lit
+they all say worse this is great people
+love it so I think you're dead right but
+it's too late now unfortunately it's too
+late now because now everyone is
+associated the game with this image sure
+I mean this yeah this is now yeah the
+game is good and has a good thing this
+is the image before we had even started
+the project this was like a budget
+estimate and I we're throwing out
+numbers here everything's in Canadian
+but this just kind of gives you like a
+rough idea of like where I was at and
+again there's a couple of really really
+important caveat cuz I know there's
+probably going to be a couple people who
+are thinking about starting their own
+game and like we'll use this as
+reference and I don't want to mislead
+you number one by the way speaking of
+misleading I was constantly misled by
+this Canadian dollar trying to negotiate
+and work with this guy every price was
+quoted in CAD I don't know if that's
+kind it's just random funny money I I
+don't know where it's going or how much
+that it could be any amount it could be
+$2 pend de Bloons that's the ratio like
+it all just seemed free so yeah that was
+my first experience dealing with the the
+Canadian dollar in a business context
+and it it's funny because every time you
+would say the revenue it' be like damn
+that's big but it's in CAD couple of
+incredibly important caveats because
+these numbers can be taken at face value
+totally out of context and be totally
+misleading number one the amount of code
+that we're bringing over is worth so
+much money obviously it doesn't go into
+the project but like if you were to
+start from scratch this would be so many
+more years and so much more money sure
+right that includes like we figured out
+how to port to Xbox way early on we
+figured out how to localize in different
+languages that's a huge pain in the ass
+if you notice when you switch like when
+you unplug a controller and touch your
+keyboard all of like the glyphs on on
+screen like automatically update the
+settings menu we have controller
+remapping we have like different
+settings and stuff that all works nicely
+because we spent 5 years on atrio the
+other thing is my time time is split so
+I was working on atrial updates I was
+working on business stuff I was working
+on videos and so this number is kind of
+low and I also don't pay myself probably
+as much as I should based on you know
+how much uh people working at Microsoft
+for example are getting paid because I
+was working at Microsoft so this number
+would be probably a lot lot higher if I
+was paying myself like industry standard
+but it's my company and I am investing I
+still pay myself to be clear but I am
+investing in the future and I'm still
+like comfortable with you know the
+budget and everything like that so
+that's kind of like the rationale about
+where these numbers come from uh other
+thing was just me like rough guessing
+how much it would cost to hire someone
+to model our character and like software
+expenses and then if we wanted to do
+localization it would cost more if we
+wanted to bring on a writer it would
+cost more these are all things that
+we're just kind of guessing yeah and
+they always go up or down mostly up we
+started the project in October and in
+August so this is 2 months until launch
+and then we delayed it a little bit yeah
+we had spent about $118,000
+which is like roughly on budget so
+roughly on budget after 10 months that
+being said we had seen how fun the game
+was people were playing the game and
+were like holy [ __ ] this game's really
+fun we had noticed people were just like
+playing it on their own I had asked them
+to play test and most of the time they
+play test a little bit and then they're
+done so I remember and people were just
+like picking you know famously we had a
+call where like I had brought the first
+test version of the game to a land party
+in Arizona with my old high school
+friends I showed it to them and like you
+guys try this game you know it's the
+thing we're working on I thought they
+would play it politely and then stop but
+then I wake up the next day and they've
+already woken up before me and are
+playing the game and then someone taught
+it to someone else who wasn't there the
+first day of the land and they were
+playing it all day it was like oh wait
+that's when I I'll be honest that's when
+I first like thought that you were right
+how good the game was cuz I don't know
+it's t for me to tell right and so you
+were like this this is this one's got
+real potential like this could really
+and then I remember being like damn yeah
+they're playing it that's awesome the
+other thing that's really important to
+note is like most of the time when we
+build games there's a lot of floundering
+around trying to find what's fun
+everything that could have gone right in
+this project went right which is like
+something I basically never expect to
+happen again in my lifetime it it's
+crazy like we had a working prototype
+that was essentially the start of our
+character within 2 weeks so we decided
+to delay the game this is very
+intentional we were like okay we have
+like the the bare bones of a rage game
+which is like the standard across all of
+it not really a huge story we had like a
+little bit of story we had a couple
+podcasts written and we saw how fun it
+was and we were like holy [ __ ] okay
+let's like let's double down so we
+decided to add the dunce hats we decided
+to add way more dialogue with Connor and
+we decided to localize into eight
+different languages we hired uh thearchy
+I spent a lot more money I hired a
+mentor to teach me more about technical
+art which is like figuring out how the
+lighting system works and stuff like
+that it still is super janky to be clear
+but it is way better than what it was
+before this was all very intentional but
+we saw we made a game time decision and
+I think it paid off because everybody
+likes the dud hat I mean it's one of
+those things that just makes you feel
+like dropping down to the bottom was
+worth it yeah and makes you remember it
+I truly think it's the best marketing
+for the game is watching somebody do the
+the dunat moment and hearing the song I
+think people that see that finally go
+I'm I'm going to take my wallet I'm
+going to buy the game like if they're on
+the fence that level of extra polish and
+seeing like oh wow they went this far
+for whenever you do something stupid
+like drop down I think that makes people
+buy the game so the one thing I think
+people may not know is this was very
+strategic if you look at something like
+only up at the very end when those
+platforms fall and disappear on you and
+like punish you that's a very negative
+experience because you're not expecting
+it and so what we did was we subverted
+their Expectations by rewarding them for
+falling a we made it a complete
+voluntary choice so I I like
+intentionally added five slow ass rooms
+with like tons of dialogue being like
+you can turn around this is your choice
+and then there's a a really long hallway
+with a hole and you look down and you
+have to make the choice and then when
+you fall you get a funny hat with you
+know funny dialogue and a banger song
+and so like they would be kind of mad if
+they still chose they'd be extra mad if
+it was like rug pulled on them but then
+because you spend so much more effort to
+reward them for falling then it turns
+into a yeah feels kind of good plus our
+game specifically feels really good to
+do it again like everybody who beats the
+game is like I wonder what the speedrun
+looks like or they say I bet I could
+beat this faster yeah because going
+through the obstacles and like learning
+it is a pretty satisfying experience so
+we felt kind of confident I actually
+think every new player the intended
+route should be at least one hat because
+if you go into the next area right when
+you're there you're usually not ready
+going through the first part and seeing
+yourself doing it hours faster is always
+a really nice boost and then you feel
+good about going into the next part now
+you're sort of committed and feeling
+part instead of like hitting a part
+you're like oh this is too hard I'm out
+we had players play the four floors like
+early on without doing like a bunch of
+the tutorial stuff and it took them like
+45 minutes 50 minutes an hour and then
+because we rearranged and added earlier
+levels people are getting through the
+four floors in like 10 15 minutes just
+because we added like those extra
+annoying little jumps that everyone kind
+of hates yeah but they teach you have to
+learn how to hit a ramp yeah I think
+that was one of the most brilliant
+things you did as I watch a lot of
+people play it it's like they don't like
+that room and they it up a lot over and
+over and it feels bad you can instantly
+reset so it's not punishing enough to
+quit and then once they get it through
+theyve finally learned how to play the
+game they understand how to yeah so
+total budget ended up being 193k 133k
+USD so let's talk about sort of the
+stats 300K with a
+massive so this is fun we can celebrate
+until we this USD by the way not CAD
+this is so so Ste steam reports in USD
+so I converted but we're going back to
+CAD always cost to make the game was
+133k like they report just the gross cuz
+they probably makes people feel good
+people return the game the nature of
+Rage games is they're very hard
+punishing and people just don't have the
+pallet for it which is totally okay you
+as a developer have to go in knowing
+that if you're going to build a rage
+game people are going to be mad
+specifically the
+[Music]
+Chinese China definitely return this
+we'll talk about it later we'll we'll
+get to it we'll get to it we'll get to
+yeah we'll get to it steam's cut after
+that takes 30% as as you make more money
+they take less but it's like millions of
+dollars we've currently after 2 weeks
+have sold 30,000 copies
+30k we have 7,000 returns so we're
+actually at 23,000 I don't even know why
+they show you 30,000 just to feel good
+or whatever but like it's incredibly
+misleading the thing I'm most interested
+in though is the graph so the graph here
+is the number of sales now normally the
+traditional way you Market is you put it
+on Steam you know you put out a YouTube
+video and you try and gain wish lists
+over like six a months 6 months a year
+whatever and then your steam release is
+like really big one big spike and then
+it drops off what we've seen is this
+Spike which is really unique to this
+game refund reasons let's talk about the
+units is game too difficult and game not
+fun which we were talking about this
+earlier when we had a call this is fine
+this is good people didn't you know get
+the game where they tried they thought
+it was fun tried it and it's just too
+hard that's what we are expecting what
+we don't want is we don't want 10,000
+crashes frequently we don't want like
+it's not the game I thought I was going
+to get that's that's on us yeah yeah
+right we we fed up some along the way
+whereas this is like when we started
+this we knew that this would happen I
+could totally see someone being like
+this game is too difficult once you get
+to middle management or VP or 100% I get
+that but uh man I was watching a review
+recently from a reviewer I really like
+all this footage was from the first room
+it wasn't even too mean in the game he
+liked it but you could tell he only
+played the first room and ke he said it
+was too hard and I was like the first
+room is not the first room is just like
+you know put a little effort in let's
+talk about this so the other thing is we
+didn't talk about the streamer tax and
+how much it cost cost on your mental
+sanity and life whatever could you be
+talking about I don't I don't really
+seem to understand I'm not going to leak
+anybody but one of your employees
+messaged me being like I feel you bro
+it's tough out there my God my poor
+employees bro quack edited one video
+this month yeah noing tragedy I didn't
+say who you have a lot of employees my
+man parttime full timebody unless unless
+it's aish I'm really not feeling for
+them here's where we're at guys
+$21,000 after everything in earnings
+which is fantastic where does this money
+go well I'm very very pleased to
+announce that I have recently just
+ordered
+55,985 individual snack packs of
+goldfish let's go one for each chatter
+multiple for each chatter it's called
+good use of money it's called business
+investing we're talking about
+snackies unfortunately no it goes into
+future Investments
+so you don't get the money you don't get
+to spend it on snack packs as a
+responsible business owner you want to
+be thinking about the next big thing you
+know there's the first month of sales
+and then there's the lifetime which
+usually adds up you said almost about
+the same right so it's like you have
+this big spike and then the very long
+tail that adds up and we haven't even
+gotten through the first month yet we
+still have big streamers yet to play it
+lck's playing it today and then uh
+there's going to be YouTube videos so I
+I do I my hopes are high that like now
+that we're past the can we make our
+money back phase that it's like oh who
+knows what could happen it's all it's
+all it's all grav for new projects well
+we actually know what's going to happen
+yeah bald coin bald coin this is all
+been a crypto setup y this whole thing
+was a setup for an actual crypto pivot
+not only for you as a game developer cuz
+people love game developers that love
+crypto also me as a consecrator people
+also love consecrators that love crypto
+so if you mix the two together it's just
+pure fan happiness chat we are going to
+rug pull you so hard the game doesn't
+stop on day one right we work on bug
+fixes we are trying to fix performance
+those those awful loading hitches that
+you get when you you know travel between
+scenes that like gives me a heart attack
+every time I see them but like we just
+didn't have time to look into them there
+was more important things to do you know
+budget reasons whatever so we're working
+on those cuz we have that extra budget
+now and we're working on the speedrun
+competition video Yeah and what's crazy
+is that it's me and squeak sort of
+pushing the game forward one step at a
+time I get the world record he gets the
+world record we're both innovating skips
+I I just think that's really impressive
+to see I mean the only thing that kind
+of sucks is like I mean you're you're
+just pushing the boundaries too far I
+think you've intimidated everybody else
+from trying and it's really dried up the
+speedrun community to just you two no
+it's cute to see someone like km or
+spectacor or small an like try their
+little but they're just like not close
+to me and squeaks their little skips
+baby skips exactly if the game continues
+to sell well and like you know we we
+continue to earn money we can take that
+money and consider future updates the
+only thing just cuz you guys are all in
+this chat and you've listen to this
+whole thing is that we have to decide
+that if these updates will bring us more
+money or poti potential future Revenue
+versus starting a new project this is
+the thing that shocked me the most so we
+were nervous about spending the money
+cuz localization is is costly you can
+use chat gbt but it's from what I've
+heard it's not good enough but China
+popped off dude China has sold big as
+America yeah which is crazy because like
+you aren't a Chinese streamer like you
+are our safety anchor I sort of am the
+Chinese streamer true true true
+but you know you think about our our
+main selling points in terms of
+marketing and it's you and all your
+connections which are English
+speakers I got Jian ping to play it
+personally so actually don't know you're
+talking about that that probably helps
+and that probably helped in a lot of the
+country we can't know how they're cons
+like how they're learning about the game
+because we can't see really what's going
+on on doy Yin or Billy Billy that well
+and so it's hard to know like what
+they're expecting to have higher refund
+rates like what what are what kind of
+marketing are they seeing from Doan
+clips that makes them want to buy the
+game but then not know what it is that
+it's hard cuz I think most people that
+are finding out about this game through
+let's say lwig or through XC or rubius
+are seeing oh they're struggling with
+the game but it looks fun I like you
+know they know what they're getting into
+whereas it feels like in China they had
+less of an idea in some way I'm going to
+close out with two of my favorite clips
+from the first couple days that both
+encapsulate the Jank and the horrifying
+scariness of releasing game but also the
+fun uh of Looking Back Now that it's
+done PL is simple
+we patched that pretty fast I saw that
+and I was like oh [ __ ] yeah I that's
+what that's like if someone doesn't like
+you or know you that's a bad review on
+steam
+[Music]
